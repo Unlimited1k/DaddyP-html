@@ -1,0 +1,22 @@
+*{text-align: center;}
+
+a[ value="1"]{
+    color: #e60f0f;
+}
+
+a[ value="2"]{
+    color: #2015eee3;
+}
+
+a[ value="3"]{
+    color: #d5eef6;
+}
+
+a[ value="4"]{
+    color: #8FE3CF;
+}
+
+img {
+ height: 500px;
+ width: 1200px;
+}
